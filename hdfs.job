@@ -1,0 +1,2 @@
+type=command
+command=/Users/zhaohaichao/programming/hadoop-2.6.0-cdh5.7.0/bin/hadoop fs -ls /
